@@ -53,11 +53,10 @@ Each variable must be define only once but it can be use multiple time. We can a
          Integers take 2 bytes(16 bits) or 4 bytes(32 bites) of memory space depending upon machine. more the size, more content it can hold.<br>
     <b>Note:</b> If we want to know the size of any datatype we can use sizeOf operator.(sizeOf ia unary operator not a function)<br>
     <b>*Range of Integer*</b><br>
-     ** for 2bytes(16 bits)<br>
+     -for 2bytes(16 bits)<br>
     Unsigned range :0 to 65535(by applying :2^n-1, where n=16)<br>
     Signed  range :-32768 to +32767<br>
-    
-    ** for 4bytes(32 bits)<br>
+      -for 4bytes(32 bits)<br>
     Unsigned range : 0 to 42949672965(by applying :2^n-1, where n=32)<br>
     Signed   range : -2147483648 to + 2147483647<br>
     
