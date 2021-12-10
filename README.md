@@ -14,7 +14,8 @@ Welcome to the [C Programming Tutorials from NESO Academy](https://www.youtube.c
 2. Procedural language
 3. Middle Level language
 4. Popular  choice for system apps
-5. Wide variety of built in function, standard libraries and header files.
+5. Wide variety of built in function, standard libraries and header files.<br>
+
   <b>*Defines*</b>
    - <b>Comments</b>: compilers usually ignore the comments. They are for programmers to make the code more readable.
    - <b>#include</b>: #include is a preprocessor which replace the text with actual content.
