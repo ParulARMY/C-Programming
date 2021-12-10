@@ -43,3 +43,8 @@ Each variable must be define only once but it can be use multiple time. We can a
 5. blanks or white spaces not allowed.
 6. don't use keywords to name your variables.
 <hr>
+
+<b>Lecture 4:</b>Basic Output Function - printf<br>
+    "printf" is the name of one of the main C output functions, and stands for "print formatted"
+
+<hr>
