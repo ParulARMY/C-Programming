@@ -23,4 +23,12 @@ Welcome to the [C Programming Tutorials from NESO Academy](https://www.youtube.c
    - <b>main </b>: It is the starting point of the function.int main means after the completation of function it will return interger. for example `return 0` means after correct execution of function it will return 0 and if something went wrong it will return garbade value.
    <hr>
 
+<b>Lecture 2:</b> Introduction to Variable
+ variables are names that points to some memory location. A variable should always declare before using it. memory location depends upon the type you use.
+      -int : 2 bytes or 4 bytes depending upon the compiler.
+      -char :1 byte
+Each variable must be define only once but it can be use multiple time.
 
+   *syntax:* data_type name_of_variable;
+   *e.g:*     int var;
+<hr>
