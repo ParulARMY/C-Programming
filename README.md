@@ -27,7 +27,7 @@ Welcome to the [C Programming Tutorials from NESO Academy](https://www.youtube.c
  variables are names that points to some memory location. A variable should always declare before using it. memory location depends upon the type you use.<br>
       -<b> int</b> : 2 bytes or 4 bytes depending upon the compiler.<br>
       -<b>char</b> :1 byte<br>
-Each variable must be define only once but it can be use multiple time.<br>
+Each variable must be define only once but it can be use multiple time. We can assign same value to different variable in a single line.<br>
 
    *syntax:* data_type name_of_variable;<br>
    *e.g:*     int var;
