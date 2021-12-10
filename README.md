@@ -32,3 +32,14 @@ Each variable must be define only once but it can be use multiple time. We can a
    *syntax:* data_type name_of_variable;<br>
    *e.g:*     int var;
 <hr>
+
+<b>Lecture 3:</b> Variable Naming Convections<br>
+   variable name:composed of letters or combination of letters (both upercase & lowercase) and digits. <br>
+<b>*Rules for declaring variable* </b>
+1. don't start variable name with digit.
+2. begining with underscore is valid but not recommended because huge number of variable name staring with underscore are reserved keywords.
+3. C language is case sensitive. so, uppercase letters are differen from lowercase letters.
+4. special characters (@,#,%,&,*..) not allowed in the name of variables.
+5. blanks or white spaces not allowed.
+6. don't use keywords to name your variables.
+<hr>
