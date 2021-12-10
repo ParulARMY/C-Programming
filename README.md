@@ -7,4 +7,18 @@ Welcome to the [C Programming Tutorials from NESO Academy](https://www.youtube.c
 
 **************************************************************
 
-##### Ths repository will contain all the related projects.If you are intrested in any code files, please run the code in an IDE for C language.
+##### This repository will contain all the related projects.If you are intrested in any code files, please run the code in an IDE for C language.
+
+<b>Lecture 1:</b> Features & The First C program
+1. Protability.
+2. Procedural language
+3. Middle Level language
+4. Popular  choice for system apps
+5. Wide variety of built in function, standard libraries and header files.
+   *Defines*
+   <b>Comments</b>: compilers usually ignore the comments. They are for programmers to make the code more readable.
+   <b>#include</b>: #include is a preprocessor which replace the text with actual content.
+   <b>stdio.h</b>:It is a standard input and output file with .h extension. It is header file. Header contain the prototype of the           functions like printf and scanf.
+   <b>main </b>: It is the starting point of the function.int main means after the completation of function it will return interger. for example `return 0` means after correct execution of function it will return 0 and if something went wrong it will return garbade value.
+
+
