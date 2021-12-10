@@ -15,10 +15,11 @@ Welcome to the [C Programming Tutorials from NESO Academy](https://www.youtube.c
 3. Middle Level language
 4. Popular  choice for system apps
 5. Wide variety of built in function, standard libraries and header files.
-   *Defines*
-   <b>Comments</b>: compilers usually ignore the comments. They are for programmers to make the code more readable.
-   <b>#include</b>: #include is a preprocessor which replace the text with actual content.
-   <b>stdio.h</b>:It is a standard input and output file with .h extension. It is header file. Header contain the prototype of the           functions like printf and scanf.
-   <b>main </b>: It is the starting point of the function.int main means after the completation of function it will return interger. for example `return 0` means after correct execution of function it will return 0 and if something went wrong it will return garbade value.
+  <b>*Defines*</b>
+   - <b>Comments</b>: compilers usually ignore the comments. They are for programmers to make the code more readable.
+   - <b>#include</b>: #include is a preprocessor which replace the text with actual content.
+   - <b>stdio.h</b>:It is a standard input and output file with .h extension. It is header file. Header contain the prototype of the           functions like printf and scanf.
+   - <b>main </b>: It is the starting point of the function.int main means after the completation of function it will return interger. for example `return 0` means after correct execution of function it will return 0 and if something went wrong it will return garbade value.
+   <hr>
 
 
