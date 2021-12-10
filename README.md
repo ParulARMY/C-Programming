@@ -56,8 +56,7 @@ Each variable must be define only once but it can be use multiple time. We can a
      ** for 2bytes(16 bits)<br>
     Unsigned range :0 to 65535(by applying :2^n-1, where n=16)<br>
     Signed  range :-32768 to +32767<br>
-
-    @for 4bytes(32 bits)<br>
+     for 4bytes(32 bits)<br>
     Unsigned range : 0 to 42949672965(by applying :2^n-1, where n=32)<br>
     Signed   range : -2147483648 to + 2147483647<br>
     
